@@ -11,7 +11,7 @@
 - Git & Github
 
 ## 📌 Projects
-- 🔏 Password Manager - [View repo]
+- 🔏 Password Manager - [Password Manager CLI](https://github.com/Josephthought/password-manager-cli)]
 - ☁️Nairobi Weather App - coming soon
 
 ## 📊 LeetCode
