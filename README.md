@@ -17,5 +17,5 @@
 ## 📊 LeetCode
 ![LeetCode](https://img.shields.io/badge/LeetCode-solving%20daily-orange)
 
-##Connect
--LinkedIn: [linkedin.com/in/joseph-muia-36aa73323]
+## 🖇️Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph_Muia-blue)](https://linkedin.com/in/joseph-muia-36aa73323)
