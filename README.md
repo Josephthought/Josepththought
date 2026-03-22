@@ -3,7 +3,7 @@
 🎓 CS student | Nairobi, Kenya
 🚀 Building towards a career at Google
 📚 currently: CS50x (Havard) + python
-⚡Daly: LeetCode algorithims
+⚡Daily: LeetCode algorithims
 
 ## ⚒️Skills
 - Python (learning)
