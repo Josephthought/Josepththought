@@ -12,6 +12,8 @@
 
 ## 📌 Projects
 - 🔏 Password Manager - [Password Manager CLI](https://github.com/Josephthought/password-manager-cli)]
+- Afristore - an online e-ccomerce paltform - https://afristore.co.ke
+- a school website - st bridget Catholic School - https://stbridgetcathoilicschool.org
 - ☁️Nairobi Weather App - coming soon
 
 ## 📊 LeetCode
